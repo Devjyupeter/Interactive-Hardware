@@ -24,18 +24,12 @@ The libraries required to build this project are as follows:
 The Software required for this project is [Arduino IDE](https://www.arduino.cc/en/main/software).
 
 Bill of Hardware Materials:
-* 1 X Arduino Mega 2560 (Rev3)
+* 1 X Arduino UNO
 * 1 X Breadboard (optional)
-* 1 X Piezo Speaker
-* 3 X Leds (Red, Blue, Green)
-* 1 X Matrix Keypad(4 x 4)
-* 1 X 28BYJ-48 Stepper Motor
-* 1 X ULN2003A - Stepper Driver Board
-* 3 X 220 ohm Resistors
-* 1 X Loud Speaker
+* 1 X Servo Motor
+* 1 X MQ135 Alcohol Sensor
 * 1 X LCD-16x2
-* 1 X 1K ohm potentiometer
-* 1 X ESP8266 ESP-12E UART WIFI Shield
+* Jumper wires
 
 ## Build Instructions
 The below schematic gives an idea about how the components are put together to build the system.
