@@ -59,9 +59,7 @@ To assemble this system gather the materials mentioned in Requirements and Mater
 
 ## Credits
 These are the third parties which deserves a credit for motivating us for this project:
-* Trevor Tomesh, instructor- CS 807 Interactive Hardware
-* [Mert Arduino](http://mertarduinotutorial.blogspot.com/)
-* [electronic GURU](https://www.youtube.com/watch?v=F28Znry0qcw)
+* Trevor Tomesh, instructor- CS 207 Interactive Hardware
 * Family and friends cannot be forgotten :)
 
 ## License & Copyrights
