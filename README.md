@@ -57,8 +57,9 @@ To know the connections in detail refer to the below circuit diagram.
 ## Uploading Sketch
 To assemble this system gather the materials mentioned in Requirements and Materials.
 
-### Follow these steps to upload the code to Arduino Mega 2560:
-
+### Follow these steps to upload the code to Arduino UNO:
+1. Open Arduino IDE 
+2. 
 
 
 
