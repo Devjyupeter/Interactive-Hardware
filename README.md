@@ -59,7 +59,7 @@ To assemble this system gather the materials mentioned in Requirements and Mater
 
 ### Follow these steps to upload the code to Arduino UNO:
 1. Open Arduino IDE 
-2. 
+2. Get the code from [here](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/my_project.ino)
 
 
 
