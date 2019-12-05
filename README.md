@@ -51,7 +51,7 @@ The below schematic gives an idea about how the components are put together to b
 
 To know the connections in detail refer to the below circuit diagram.
 
-![Alt Text](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/img/circuit.jpg)
+![Alt Text](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/circuit.png)
 
 
 ## Uploading Sketch
