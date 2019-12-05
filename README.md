@@ -47,7 +47,7 @@ Bill of Hardware Materials:
 ## Build Instructions
 The below schematic gives an idea about how the components are put together to build the system.
 
-![Alt Text](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/breadboard.jpg)
+![Alt Text](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/breadboard.png)
 
 To know the connections in detail refer to the below circuit diagram.
 
