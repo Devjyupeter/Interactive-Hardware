@@ -24,8 +24,6 @@ The libraries required to build this project are as follows:
 * [ESP8288.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/ESP8266WiFi.h)
 * [Keypad.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/Keypad.h)
 * [PCM.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/PCM.h)
-* [SoftwareSerial.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/SoftwareSerial.h)
-* [Stepper.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/Stepper.h)
 * [LiquidCrystal.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/LiquidCrystal.h)
 
 The Software required for this project is [Arduino IDE](https://www.arduino.cc/en/main/software).
@@ -58,13 +56,13 @@ To know the connections in detail refer to the below circuit diagram.
 To assemble this system gather the materials mentioned in Requirements and Materials.
 
 ### Follow these steps to upload the code to Arduino UNO:
-1. Open Arduino IDE 
-2. Get the code from [here](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/my_project.ino)
 
+1. Get the code file from [here](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/my_project.ino)
+2. Connect the Arduino to the computer with the cable.
+3. Open the code file in Arduino IDE.
+4. Select the COM port to which the Arduino is connected.
+5. Press Ctrl+U or goto Sketch-> upload.
 
-
-## Usage
-Before turning on the the system create a hotspot or connect to any access point(*Note*:- Change the credentials accordingly in the code of ESP8266 Wifi shield before uploading to it.). Now Turn ON the system by providing a 9V to 12V power supply.
 
 
 
