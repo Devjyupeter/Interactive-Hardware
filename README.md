@@ -4,8 +4,6 @@
 This project is about a system which detects the level of alcohol in human breadth using concepts of interactive hardware. 
 
 
-
-
 ## Repository Contents
 
 * */documentation* - Contains the project proposal and design report of this project which was submitted to the instructor. 
@@ -21,9 +19,6 @@ This project is about a system which detects the level of alcohol in human bread
 
 The libraries required to build this project are as follows:
 
-* [ESP8288.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/ESP8266WiFi.h)
-* [Keypad.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/Keypad.h)
-* [PCM.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/PCM.h)
 * [LiquidCrystal.h](https://github.com/trushil/Arduino-Security-Panel-System/blob/master/libraries/LiquidCrystal.h)
 
 The Software required for this project is [Arduino IDE](https://www.arduino.cc/en/main/software).
