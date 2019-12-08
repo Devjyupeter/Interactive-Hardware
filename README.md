@@ -7,14 +7,14 @@ This project is about a system which detects the level of alcohol in human bread
 
 ## Repository Contents
 
-* */documentation* - Contains the final write up which was submitted to the instructor. 
-* */hardware* - Contains PCB design files.
-* */img* - Contains all the image files of this project
-* */libraries* - Contains all the libraries that is required to buid this project.
-* */src* - Contains the code .
-* */LICENSE* - Contains the details of the license for this project.
-  
-
+* */libraries* -  Contains all the libraries that is required to buid this project.
+* */src* - Contains the code 
+* */README.md* - contains the configurations and few more details.
+* */breadboard.png* -  Contains PCB design files.
+* */circuit.png* -  Contains PCB design files.
+* */final writeup.pdf* - Contains the final write up which was submitted to the instructor.
+* */my.jpg* - contains new project's photo  
+* */licence -  Contains the details of the license for this project.
 
 ## Requirements and Materials
 
