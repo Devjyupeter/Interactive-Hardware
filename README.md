@@ -68,4 +68,4 @@ These are the third parties which deserves a credit for motivating us for this p
 
 © Dev Patel, Computer Science, University Of Regina
 
-Licensed Under [OSHLicense](LICENSE).
+Licensed Under [OSHLicense](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/OSH%20licence).
