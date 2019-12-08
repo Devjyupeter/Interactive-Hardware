@@ -1,5 +1,5 @@
 # Alcohol level detection System Using Arduino
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 This project is about a system which detects the level of alcohol in human breadth using concepts of interactive hardware. 
 
