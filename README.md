@@ -68,4 +68,4 @@ These are the third parties which deserves a credit for motivating us for this p
 
 © Dev Patel, Computer Science, University Of Regina
 
-Licensed Under [MIT License](LICENSE).
+Licensed Under [OSHLicense](LICENSE).
