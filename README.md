@@ -48,7 +48,7 @@ To assemble this system gather the materials mentioned in Requirements and Mater
 
 ### Follow these steps to upload the code to Arduino UNO:
 
-1. Get the code file from [here](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/my_project.ino)
+1. Get the code file from [here](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/src/my_project.ino)
 2. Connect the Arduino to the computer with the cable.
 3. Open the code file in Arduino IDE.
 4. Select the COM port to which the Arduino is connected.
