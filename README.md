@@ -21,7 +21,7 @@ This project is about a system which detects the level of alcohol in human bread
 The libraries required to build this project are as follows:
 
 * [LiquidCrystal.h](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/LiquidCrystal.h)
-* [Servo.h](https://github.com/arduino-libraries/Servo/blob/master/src/Servo.h)
+* [Servo.h](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/libraries/Servo.h)
 
 The Software required for this project is [Arduino IDE](https://www.arduino.cc/en/main/software).
 
