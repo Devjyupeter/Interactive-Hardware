@@ -3,6 +3,7 @@
 
 This project is about a system which detects the level of alcohol in human breadth using concepts of interactive hardware. 
 
+![Alt Text](https://github.com/Devjyupeter/Interactive-Hardware/blob/master/my.jpg)
 
 ## Repository Contents
 
